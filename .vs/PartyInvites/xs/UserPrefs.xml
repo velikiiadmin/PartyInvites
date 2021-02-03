@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{24901E9D-62DB-4E47-A0B1-4FD9D69FC154}|Default">
+  <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/ListResponses.cshtml">
+    <Files>
+      <File FileName="wwwroot/css/Style.css" Line="14" Column="2" />
+      <File FileName="Views/Home/Index.cshtml" Line="13" Column="22" />
+      <File FileName="Views/Home/RsvpForm.cshtml" Line="33" Column="59" />
+      <File FileName="Views/Home/Thanks.cshtml" Line="19" Column="18" />
+      <File FileName="Views/Home/ListResponses.cshtml" Line="10" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PartyInvites" expanded="True">
+            <Node name="PartyInvites" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="ListResponses.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
